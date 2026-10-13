@@ -1,8 +1,12 @@
-# Funshine Preschool & Childcare
+# MMv Funshine Daycare
 
 A custom, responsive website for Funshine Child Care & Learning Center LLC in Cedar City, Utah. Built locally with HTML, CSS, and JavaScript. No paid services, dependencies, tracking, or backend are required.
 
 ## Preview
+
+Website preview: https://jessenorton007.github.io/MMv-Funshine-Daycare/
+
+GitHub repository: https://github.com/jessenorton007/MMv-Funshine-Daycare
 
 Run `npm start` and visit `http://127.0.0.1:4173`. The site also works on a normal static host: publish the contents of this directory. Use a static HTTP server for testing clipboard features.
 

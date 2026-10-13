@@ -15,4 +15,4 @@ http.createServer(async (req,res) => {
     res.writeHead(200,{'Content-Type':types[path.extname(file)] || 'application/octet-stream','X-Content-Type-Options':'nosniff'});
     res.end(req.method === 'HEAD' ? undefined : data);
   } catch { res.writeHead(404,{'Content-Type':'text/plain'});res.end('Not found'); }
-}).listen(port,'127.0.0.1',() => console.log(`Funshine preview: http://127.0.0.1:${port}`));
+}).listen(port,'0.0.0.0',() => console.log(`Funshine preview listening on port ${port}`));

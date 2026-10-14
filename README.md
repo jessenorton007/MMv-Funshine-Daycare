@@ -20,7 +20,7 @@ Run `npm start` and visit `http://127.0.0.1:4173`. The site also works on a norm
 
 ## Content and assets
 
-Business details and real center photographs were sourced from the supplied website: https://funshinechildcareu.wixsite.com/funshinechildcareccu . Preschool hours, childcare ages, contact information, and program descriptions are based on its relevant pages. Current schedules, prices, and openings should be confirmed by the center before a public business launch.
+Business details and real center photographs were sourced from the supplied website: https://funshinechildcareu.wixsite.com/funshinechildcareccu . Preschool hours and childcare ages were updated from the business's October 2026 corrections: preschool runs 9 a.m.–12 p.m., and childcare welcomes children from 6 weeks to 12 years. Other contact information and program descriptions are based on the reference website. Prices and openings should be confirmed directly with the center.
 
 The supplied Funshine logo is preserved in `assets/funshine-logo.png`. Photo filenames map to original Wix assets in `ASSET SOURCES.md`. Fredoka and DM Sans are distributed under the SIL Open Font License; see `assets/OFL-Fredoka.txt` and `assets/OFL-DM-Sans.txt`.
 
